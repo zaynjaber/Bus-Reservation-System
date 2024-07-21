@@ -1,4 +1,4 @@
-# Bus-Reservation-System
+# Bus Reservation System
 
 The Bus Reservation System is a C-based project I developed which has the ability to book, cancel, and check the status of bus tickets easily and efficiently.
 
